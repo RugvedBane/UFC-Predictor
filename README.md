@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts the outcome of UFC fights based on historical fighter statistics.
 
-Live App: https://rugvedbane-ufc-predictor.streamlit.app
+Live App: [https://rugvedbane-ufc-predictor.streamlit.app](https://ufc-predictor-rugvedbane.streamlit.app)
 
 ---
 
